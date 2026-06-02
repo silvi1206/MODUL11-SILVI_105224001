@@ -1,19 +1,9 @@
 
 public class pelanggans {
-    private String Namaaaa;
-    private Integer Umurrrr;
     private int stokkopi;
 
     pelanggans(){
         this.stokkopi = 5;
-    }
-
-    Integer getUmurrrr() {
-        return Umurrrr;
-    }
-
-    void setUmurrrr(Integer Umurrrr) {
-        this.Umurrrr = Umurrrr;
     }
 
     public void daftarMember(int Umurrrr) {
